@@ -1,0 +1,8 @@
+Analyze the provided image.
+
+Follow ALL instructions and the few-shot example from the system prompt.
+
+Extract every visible detail.
+
+Return ONLY a single, strictly valid JSON object.
+Do not add explanations, comments, or markdown.
